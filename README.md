@@ -29,7 +29,7 @@ To meet calls and pressure that local councils and the State Government aren't p
 The Picnic Victoria app provides detailed park amenity information to help facilitate a family picnic to a skate park hangout.
 
 Map View - Landing Page
-![website landing page screenshot](./docs/landing2.png)
+![website landing page screenshot](./docs/landing4.png)
 
 List View
 ![park list screenshot](./docs/list1.png)
@@ -65,18 +65,10 @@ SignUp View
 
 ![screenshot of rspec tests](./docs/rspectest1.png)
 
-![screenshot of working tests](./docs/rspectest2.png)
-
 #### **Testing Frontend:**
 
+Testing the Landing Page Map View
 ![Testing the Landing Page Map View](./docs/test1.png)
-(Testing the Landing Page Map View)
-
-![Testing the Admin View](./docs/test2.png)
-(Testing the Admin View)
-
-![Testing the SignIn View](./docs/test3.png)
-(Testing the SignIn View)
 
 #### **Manual Testing:**
 
@@ -84,6 +76,9 @@ SignUp View
 
 ![Manual Testing example](./docs/manualTest1.png)
 (Example of Manual Testing Sheet located in [/docs](./docs/manual_testing_spreadsheet.numbers) folder.)
+
+![Manual Testing example](./docs/manualTest2.png)
+Final Manual Testing Sheet
 
 # **T3A2-A Part A**
 
